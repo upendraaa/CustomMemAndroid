@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "431881390551",
+    "firebase_url": "https://custom-your-memory.firebaseio.com",
+    "project_id": "custom-your-memory",
+    "storage_bucket": "custom-your-memory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431881390551:android:4d796e3c4c9a5da0",
+        "android_client_info": {
+          "package_name": "interview.upendra.com.custommemory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431881390551-9kvrr47n22reav5nvci8d7v83m3tcdhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPh1C2kbUV0eOTljHNX7jyOG0PRdpOJ1Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

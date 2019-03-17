@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="price_per_person">Price per person</string>
+    <string name="rupee_symbol">\u20B9</string>
+</resources>

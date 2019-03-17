@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="skyblue">#00bfff</color>
+    <color name="trasparentblue">#e0ffff</color>
+    <color name="grey">#8b8989</color>
+
+    <color name="dark_green">#059176</color>
+    <color name="light_green">#E7FCF8</color>
+    <color name="heading_color">#373C4A</color>
+    <color name="sub_heading">#7C8495</color>
+
+    <color name="place_name_details">#474C57</color>
+
+    <color name="per_person">#7C8495</color>
+    <color name="price">#4A4A4A</color>
+    <color name="book_now_bg">#059176</color>
+</resources>
